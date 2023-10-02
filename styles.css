@@ -4,7 +4,7 @@
 
 .btn-primary {
     background-color: #062e58; /* Changing the color of the submit button */
-    border-color: #062e58; /* Chanign in the border color */
+    border-color: #062e58; /* Changing the border color of the button */
 }
 
 /* Style the submit button when hovering */
@@ -12,3 +12,4 @@
     background-color: #0056b3; /* Change the background color of the button on hover */
     color: #fff; /* Change the text color on hover */
 }
+
