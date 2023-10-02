@@ -1,0 +1,14 @@
+.form-group h2 {
+    color: #28282b; /* Changing the color of the form header */
+}
+
+.btn-primary {
+    background-color: #062e58; /* Changing the color of the submit button */
+    border-color: #062e58; /* Chanign in the border color */
+}
+
+/* Style the submit button when hovering */
+.btn-primary:hover {
+    background-color: #0056b3; /* Change the background color of the button on hover */
+    color: #fff; /* Change the text color on hover */
+}
